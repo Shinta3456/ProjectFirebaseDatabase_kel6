@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126370346001",
+    "project_id": "fir-sederhana-6",
+    "storage_bucket": "fir-sederhana-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126370346001:android:1e4aa199e29aa9ff78adb0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sederhana_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126370346001-hmgbfph0uvgq5o6pqts3drki0eg8iood.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_kDnG9C6xqsMP0oNukLz6E3s-dxHoBLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126370346001-hmgbfph0uvgq5o6pqts3drki0eg8iood.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
